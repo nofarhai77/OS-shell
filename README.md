@@ -1,6 +1,5 @@
 # OS-shell
-Implementation of a simple shell program.  
-Written in C as an assignment in operating-systems course (Tel Aviv University).
+Implementation of a simple shell program. Written in C as an assignment in operating-systems course (Tel Aviv University).
 
 # Main purpose
 The goal of this assignment is to gain experience with process management, pipes, signals, and the relevant system calls.  
